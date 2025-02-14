@@ -9,6 +9,7 @@ My self Dashrath singh rajput. I am from Gujarat. I did my bachelor in BCA and I
 📫 How to reach me: B-7/255, raj abhisek city homes, sachin, Surat-394230.
 
 Contact NO: 7698447392
+link : https://dashrathsingh07.github.io/Resume/
 
 
 Directory Structure
